@@ -1,0 +1,8 @@
+[package]
+name = "microbit-snake"
+version = "0.0.0"
+
+[dependencies]
+panic-halt = "~0.2"
+microbit-v2 = "~0.13"
+cortex-m-rt="~0.6"
